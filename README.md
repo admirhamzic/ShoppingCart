@@ -1,6 +1,7 @@
 # ShoppingCart
 
 Simple and basic shopping cart that prints a receipt of the items in your cart and the total amount of said items combined
+Output example:
 
 
 ```java
