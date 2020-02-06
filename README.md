@@ -3,7 +3,7 @@
 First year assignment
 
 Output example:
-+-------------------------+
++-------------------------+%n
 |       JAVA MARKET       |
 +-----------------+-------+
 |     Product     | Price |
