@@ -3,7 +3,9 @@
 First year assignment
 
 +-------------------------+
-|       JAVA MARKET       |
+|       
+JAVA MARKET       
+|
 +-----------------+-------+
 |     Product     | Price |
 +-----------------+-------+
