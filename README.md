@@ -1,6 +1,6 @@
-# Shopping Cart
+# Receipt Program
 
-Simple and basic shopping cart program that prints a receipt of the items in your cart and the total amount of said items combined
+Simple and basic program that prints a receipt of the items in your cart and the total amount of said items combined
 
 Output example:
 
